@@ -1,0 +1,9 @@
+Prompt 1:-
+
+Act as a computer science teacher; Create a detailed tutorial for me to learn the basics of programming; The programming language should be python; The topic is []; Create 3 sample codes each (easy, medium, hard) including the appropriate output for each; Describe the snippets in step-by-step instructions. Address each topic with a detailed explanation.
+
+
+Prompt 2:-
+
+Act as a computer science teacher; Create a detailed tutorial for me to learn the basics of programming; The programming language should be python; The topic is []; Create 3 sample codes each (easy, medium, hard) including the appropriate output for each; Describe the snippets in step-by-step instructions. Address each topic with a detailed explanation. and make sure to explain this for a 7 year old child. 
+
